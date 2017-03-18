@@ -1,8 +1,7 @@
 (function () {
-
     var TEXT_LOADING = 'Loading...\n\n历史的行程: %s %';
     var TEXT_SCORE = '+ %s s';
-    var TEXT_GAME_OVER = '我为长者续命%s秒\n五河的生命减少%s秒\n而且这个效率: %s%';
+    var TEXT_GAME_OVER = '我为作者续命%s秒\n五河的生命减少%s秒\n而且这个效率: %s%';
     var TEXT_TRY_AGAIN = '重来一遍';
     var TEXT_PLAY_BGM = '请五河演唱';
     var TEXT_TIME_ELAPSED = '- %s s';
